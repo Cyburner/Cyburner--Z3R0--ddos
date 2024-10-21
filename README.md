@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-**Cyburner - Z3R0** is a powerful and versatile Distributed Denial of Service (DDoS) testing tool designed for cybersecurity professionals and ethical hackers. This tool allows users to simulate DDoS attacks on target servers to evaluate their resilience and response under stress conditions. With a range of customizable attack methods, Cyburner provides a user-friendly interface to facilitate security testing and vulnerability assessments.
+**Cyburner - Z3R0 DDOS** is a powerful and versatile Distributed Denial of Service (DDoS) testing tool designed for cybersecurity professionals and ethical hackers. This tool allows users to simulate DDoS attacks on target servers to evaluate their resilience and response under stress conditions. With a range of customizable attack methods, Cyburner provides a user-friendly interface to facilitate security testing and vulnerability assessments.
 
 ## Features
 - **Multi-Method Attack Vectors**: Supports various attack methods, including UDP floods, SYN floods, and HTTP request floods.
