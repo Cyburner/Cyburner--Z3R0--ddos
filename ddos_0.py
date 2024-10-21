@@ -1,4 +1,5 @@
-import colora
+import colorama
+import threading 
 import aiohttp
 import asyncio
 import subprocess
@@ -32,10 +33,8 @@ ascii_art = r'''
    ##     #######  ########  ##     ## 
   ##            ## ##   ##   ##     ## 
  ##      ##     ## ##    ##   ##   ##  
-########  #######  ##     ##   #####
-             Distributed Denial-of-Service (DDOS) Tool                            
-             Please enter the target website URL below
-             Created BY---Cyburner (Z3R0)
+########  #######  ##     ##   ##### 
+             Z3R0 
 '''
 
 # Additional styling to the banner
@@ -55,7 +54,7 @@ loop = asyncio.new_event_loop()
 total_requests = 0
 
 # Accepting the target URL
-target_url = input("Enter Your Target Website URL ----> ")
+target_url = input("Enter Target Website URL -> ")
 print()
 time.sleep(1)
 
@@ -114,4 +113,4 @@ if __name__ == '__main__':
                 except RuntimeError:
                     pass
         except KeyboardInterrupt:
-            break         break
+            break
