@@ -25,7 +25,6 @@ else:
 
 time.sleep(1)
 
-# Ascii art banner with compact Z3R0 text
 ascii_art = r'''
 ########  #######  ########    #####   
      ##  ##     ## ##     ##  ##   ##  
@@ -34,7 +33,10 @@ ascii_art = r'''
   ##            ## ##   ##   ##     ## 
  ##      ##     ## ##    ##   ##   ##  
 ########  #######  ##     ##   ##### 
-             Z3R0 
+         Distributed Denial-of-Service (DDOS)
+         Tool                            
+         Please enter the target website URL below
+             --Z3R0 (Cybernur)
 '''
 
 # Additional styling to the banner
