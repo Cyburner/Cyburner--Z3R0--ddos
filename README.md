@@ -33,16 +33,26 @@ To install Cyburner - Z3R0, follow these steps:
    pip install sys
    pip install time
    pip install os
-
-
+3. **For run**:
+   ```bash
+   python dddos_0.py
    
+**Usage**
+To use Cyburner - Z3R0, specify the target server's IP address and select the desired attack method. Ensure you have permission to test the target server to avoid legal consequences.
+
+**Disclaimer**
+This tool is intended for educational purposes and authorized security testing only. Unauthorized use against servers or networks is illegal and unethical. Always obtain permission before conducting any testing.
+
+**License**
+This project is licensed under the MIT License. See the LICENSE file for more details.
 ### Key Components Explained:
 
 - **Badges**: The version and license badges enhance visual appeal and provide quick information.
 - **Description**: Clearly states the purpose and functionality of the tool.
 - **Features**: Highlights the key functionalities, making it easy for users to understand what the tool offers.
 - **Installation Instructions**: Provides clear steps for users to get started.
-- **Usage Section**: Brief guidance on how to use the tool effectively.
+- **Usage Section**: Brief guidance on how to use the tool effectiv
+- ely.
 - **Disclaimer**: Important legal note to promote ethical use.
 
 Feel free to customize this template further to suit your project's needs!
