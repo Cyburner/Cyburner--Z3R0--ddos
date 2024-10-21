@@ -20,3 +20,4 @@ To install Cyburner - Z3R0, follow these steps:
    ```bash
    git clone https://github.com/Cyburner/Cyburner--Z3R0--ddos.git
    cd Cyburner--Z3R0--ddos
+   # Example: pip install -r requirements.txt
