@@ -20,6 +20,21 @@ To install Cyburner - Z3R0, follow these steps:
    ```bash
    git clone https://github.com/Cyburner/Cyburner--Z3R0--ddos.git
    cd Cyburner--Z3R0--ddos
+
+2. **Pip installation**:
+   ```bash
+   pip install colorama
+   pip install threading
+   pip install threading
+   pip install aiohttp
+   pip install asyncio
+   pip install subprocess
+   pip install multiprocess
+   pip install sys
+   pip install time
+   pip install os
+
+
    
 ### Key Components Explained:
 
