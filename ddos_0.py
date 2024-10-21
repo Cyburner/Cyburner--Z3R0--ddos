@@ -34,7 +34,10 @@ ascii_art = r'''
   ##            ## ##   ##   ##     ## 
  ##      ##     ## ##    ##   ##   ##  
 ########  #######  ##     ##   ##### 
-             Z3R0 
+   Distributed Denial-of-Service (DDOS)
+   Tool                            
+   Please enter the target website URL below          
+    -Cyburner -Z3R0 
 '''
 
 # Additional styling to the banner
