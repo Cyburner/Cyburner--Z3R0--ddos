@@ -51,8 +51,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **Description**: Clearly states the purpose and functionality of the tool.
 - **Features**: Highlights the key functionalities, making it easy for users to understand what the tool offers.
 - **Installation Instructions**: Provides clear steps for users to get started.
-- **Usage Section**: Brief guidance on how to use the tool effectiv
-- ely.
+- **Usage Section**: Brief guidance on how to use the tool effectively.
 - **Disclaimer**: Important legal note to promote ethical use.
 
 Feel free to customize this template further to suit your project's needs!
