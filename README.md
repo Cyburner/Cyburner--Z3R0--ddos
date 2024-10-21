@@ -27,7 +27,7 @@ To install Cyburner - Z3R0, follow these steps:
    
 3. **For run**:
    ```bash
-   python dddos_0.py
+   python ddos_0.py
    
 **Usage**
 To use Cyburner - Z3R0, specify the target server's IP address and select the desired attack method. Ensure you have permission to test the target server to avoid legal consequences.
