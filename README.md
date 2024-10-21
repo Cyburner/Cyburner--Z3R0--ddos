@@ -23,16 +23,8 @@ To install Cyburner - Z3R0, follow these steps:
 
 2. **Pip installation**:
    ```bash
-   pip install colorama
-   pip install threading
-   pip install threading
-   pip install aiohttp
-   pip install asyncio
-   pip install subprocess
-   pip install multiprocess
-   pip install sys
-   pip install time
-   pip install os
+   pip install colorama aiohttp multiprocess pystyle
+   
 3. **For run**:
    ```bash
    python dddos_0.py
