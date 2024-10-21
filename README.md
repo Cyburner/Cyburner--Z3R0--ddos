@@ -1,13 +1,22 @@
-Cyburner - Z3R0 DDoS Tool
-Cyburner - Z3R0 is a powerful and versatile tool designed for conducting Distributed Denial of Service (DDoS) attacks. Built with efficiency in mind, it offers a user-friendly interface for both beginners and experienced users. This tool allows for the simulation of DDoS attacks on target servers to test their resilience and response under stress.
+# Cyburner - Z3R0 DDoS Tool
 
-Features:
-Multi-Method Attack Vectors: Supports various attack methods, providing flexibility in testing.
-User-Friendly Interface: Easy to navigate, making it accessible for users with different levels of experience.
-Customizable Parameters: Adjust attack settings to simulate different conditions and intensities.
-Real-Time Monitoring: Provides feedback on the status and effectiveness of attacks.
-Disclaimer:
-This tool is intended for educational purposes and to assist in security testing with proper authorization. Unauthorized use against servers or networks is illegal and unethical. Always ensure you have permission before conducting any testing.
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-Installation:
-To install and use this tool, clone the repository and follow the setup instructions provided in the documentation.
+## Description
+**Cyburner - Z3R0** is a powerful and versatile Distributed Denial of Service (DDoS) testing tool designed for cybersecurity professionals and ethical hackers. This tool allows users to simulate DDoS attacks on target servers to evaluate their resilience and response under stress conditions. With a range of customizable attack methods, Cyburner provides a user-friendly interface to facilitate security testing and vulnerability assessments.
+
+## Features
+- **Multi-Method Attack Vectors**: Supports various attack methods, including UDP floods, SYN floods, and HTTP request floods.
+- **User-Friendly Interface**: Intuitive design suitable for both beginners and experienced users.
+- **Customizable Parameters**: Adjust settings such as duration, intensity, and target IP address to simulate different attack scenarios.
+- **Real-Time Monitoring**: Get instant feedback on the status and effectiveness of your attack, helping you understand server vulnerabilities.
+- **Educational Purpose**: Designed for ethical testing and educational use to help organizations improve their cybersecurity measures.
+
+## Installation
+To install Cyburner - Z3R0, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Cyburner/Cyburner--Z3R0--ddos.git
+   cd Cyburner--Z3R0--ddos
