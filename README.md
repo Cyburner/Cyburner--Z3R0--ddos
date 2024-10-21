@@ -20,5 +20,14 @@ To install Cyburner - Z3R0, follow these steps:
    ```bash
    git clone https://github.com/Cyburner/Cyburner--Z3R0--ddos.git
    cd Cyburner--Z3R0--ddos
-   pip install -r requirements.txt
-   python ddos_0.py
+   
+### Key Components Explained:
+
+- **Badges**: The version and license badges enhance visual appeal and provide quick information.
+- **Description**: Clearly states the purpose and functionality of the tool.
+- **Features**: Highlights the key functionalities, making it easy for users to understand what the tool offers.
+- **Installation Instructions**: Provides clear steps for users to get started.
+- **Usage Section**: Brief guidance on how to use the tool effectively.
+- **Disclaimer**: Important legal note to promote ethical use.
+
+Feel free to customize this template further to suit your project's needs!
